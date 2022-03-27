@@ -1,0 +1,67 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATtiny4313"</DEVICE>
+ <WORKING_DIR>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>D:\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn4313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\Debug\ATTINY4313_matrix_asm.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ATTINY4313_matrix_asm.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ATTINY4313_matrix_asm.map</FILE>
+  <FILE>ATTINY4313_matrix_asm.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <v_graph_frame><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>36</LINE></v_graph_frame>
+  <v_char_buffer><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>37</LINE></v_char_buffer>
+  <v_scroll_speed><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>40</LINE></v_scroll_speed>
+  <v_scroll_amount><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>41</LINE></v_scroll_amount>
+  <v_frame_position><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>42</LINE></v_frame_position>
+  <I_RESET_ROUTINE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>68</LINE></I_RESET_ROUTINE>
+  <unexpected_routine><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>642</LINE></unexpected_routine>
+  <I_TIMER1_COMPA_ROUTINE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>440</LINE></I_TIMER1_COMPA_ROUTINE>
+  <I_UART_RX_ROUTINE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>619</LINE></I_UART_RX_ROUTINE>
+  <I_UART_UDRE_ROUTINE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>622</LINE></I_UART_UDRE_ROUTINE>
+  <I_UART_TX_ROUTINE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>625</LINE></I_UART_TX_ROUTINE>
+  <I_EEPRDY_ROUTINE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>628</LINE></I_EEPRDY_ROUTINE>
+  <I_WDT_ROUTINE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>631</LINE></I_WDT_ROUTINE>
+  <I_PCINT2_ROUTINE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>639</LINE></I_PCINT2_ROUTINE>
+  <ram_clr_loop><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>76</LINE></ram_clr_loop>
+  <MAIN><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>81</LINE></MAIN>
+  <SETUP><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>121</LINE></SETUP>
+  <main_loop><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>88</LINE></main_loop>
+  <delay_dummy><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>90</LINE></delay_dummy>
+  <UART_TRANSMIT><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>196</LINE></UART_TRANSMIT>
+  <EEPROM_WRITE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>97</LINE></EEPROM_WRITE>
+  <EEPROM_READ><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>111</LINE></EEPROM_READ>
+  <UART_INIT><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>185</LINE></UART_INIT>
+  <UART_RECIEVE><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>203</LINE></UART_RECIEVE>
+  <SLEEP_WELL><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>210</LINE></SLEEP_WELL>
+  <DIVIDE_16div16_16mod16><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>261</LINE></DIVIDE_16div16_16mod16>
+  <div_1><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>265</LINE></div_1>
+  <div_2><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>271</LINE></div_2>
+  <div_3><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>281</LINE></div_3>
+  <MULTIPLY_8mul8_16><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>285</LINE></MULTIPLY_8mul8_16>
+  <mul_1><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>289</LINE></mul_1>
+  <mul_2><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>292</LINE></mul_2>
+  <SHIFT_LEFT><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>299</LINE></SHIFT_LEFT>
+  <lshift_1><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>300</LINE></lshift_1>
+  <MATRIX_CHAR><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>309</LINE></MATRIX_CHAR>
+  <alpha><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>649</LINE></alpha>
+  <move_buff><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>343</LINE></move_buff>
+  <mul_char><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>333</LINE></mul_char>
+  <update_loop><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>351</LINE></update_loop>
+  <loop_end><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>368</LINE></loop_end>
+  <MATRIX_TEXT><FILE>C:\Users\Mateusz\Documents\Atmel Studio\7.0\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asm</FILE><LINE>409</LINE></MATRIX_TEXT>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "ATTINY4313_matrix_asm", "ATTINY4313_matrix_asm\ATTINY4313_matrix_asm.asmproj", "{D6CA8E78-625B-4F54-8384-A0FD91A4EF4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CA8E78-625B-4F54-8384-A0FD91A4EF4E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D6CA8E78-625B-4F54-8384-A0FD91A4EF4E}.Debug|AVR.Build.0 = Debug|AVR
+		{D6CA8E78-625B-4F54-8384-A0FD91A4EF4E}.Release|AVR.ActiveCfg = Release|AVR
+		{D6CA8E78-625B-4F54-8384-A0FD91A4EF4E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
