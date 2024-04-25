@@ -1,0 +1,12 @@
+*.d
+*.o
+*.ko
+*.obj
+*.elf
+*.map
+*.a
+*.hex
+
+
+**/.vscode
+**/venv
